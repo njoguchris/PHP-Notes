@@ -15,4 +15,4 @@ My notes for PHP.
 7. [ PHP Conditionals ](./conditionals.md)
 8. [ PHP Loops ](./loops.md)
 9. [ PHP Arrays ](./arrays.md)
-10.[ PHP Functions ](./functions.md)
+10. [ PHP Functions ](./functions.md)
